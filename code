@@ -3,6 +3,7 @@ have a nice day
 bye
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 this is a last file
 =======
 hello
@@ -11,4 +12,7 @@ hello
 =======
 linux
 sql
+>>>>>>> Stashed changes
+=======
+forthe third time
 >>>>>>> Stashed changes
